@@ -1,16 +1,38 @@
 {
   "files": {
-    "main.css": "/littleLemon/static/css/main.073c9b0a.css",
-    "main.js": "/littleLemon/static/js/main.baa208e7.js",
+    "main.css": "/littleLemon/static/css/main.2732d156.css",
+    "main.js": "/littleLemon/static/js/main.52bcdf95.js",
     "static/js/787.3ecd7fac.chunk.js": "/littleLemon/static/js/787.3ecd7fac.chunk.js",
-    "static/media/logo.svg": "/littleLemon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Mario and Adrian A.jpg": "/littleLemon/static/media/Mario and Adrian A.7f44c6d6e341a27d14b3.jpg",
+    "static/media/Mario and Adrian b.jpg": "/littleLemon/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/bruchetta.svg": "/littleLemon/static/media/bruchetta.29ea078fea3d3120ed22402e901b5bbc.svg",
+    "static/media/restaurant chef B.jpg": "/littleLemon/static/media/restaurant chef B.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek salad.jpg": "/littleLemon/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/littleLemon/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/littleLemon/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/restaurant_indoor.jpg": "/littleLemon/static/media/restaurant_indoor.4b075e33430db54d2ad9.jpg",
+    "static/media/Logo.svg": "/littleLemon/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "static/media/markazi-text-arabic-400-normal.woff": "/littleLemon/static/media/markazi-text-arabic-400-normal.eac675ee868b9c367a82.woff",
+    "static/media/markazi-text-arabic-400-normal.woff2": "/littleLemon/static/media/markazi-text-arabic-400-normal.66f271a5d8afabdabbb4.woff2",
+    "static/media/karla-latin-700-normal.woff": "/littleLemon/static/media/karla-latin-700-normal.48a3dad49d36188a10d0.woff",
+    "static/media/instagram.png": "/littleLemon/static/media/instagram.56d3c2ef9b43e98875c0.png",
+    "static/media/markazi-text-latin-400-normal.woff": "/littleLemon/static/media/markazi-text-latin-400-normal.d8226c4fc12852a40351.woff",
+    "static/media/markazi-text-latin-ext-400-normal.woff": "/littleLemon/static/media/markazi-text-latin-ext-400-normal.b7d9824c94321dc30316.woff",
+    "static/media/twitter.png": "/littleLemon/static/media/twitter.a0edd153afbcdb7ffc3b.png",
+    "static/media/markazi-text-latin-400-normal.woff2": "/littleLemon/static/media/markazi-text-latin-400-normal.12d9616a3ae97d708b00.woff2",
+    "static/media/karla-latin-700-normal.woff2": "/littleLemon/static/media/karla-latin-700-normal.69d4f06cb80244dbe1d0.woff2",
+    "static/media/markazi-text-latin-ext-400-normal.woff2": "/littleLemon/static/media/markazi-text-latin-ext-400-normal.e2f873481863bfa16253.woff2",
+    "static/media/karla-latin-ext-700-normal.woff": "/littleLemon/static/media/karla-latin-ext-700-normal.7a167251666a2b82c262.woff",
+    "static/media/karla-latin-ext-700-normal.woff2": "/littleLemon/static/media/karla-latin-ext-700-normal.b945a1d13b20a3be68a2.woff2",
+    "static/media/markazi-text-vietnamese-400-normal.woff": "/littleLemon/static/media/markazi-text-vietnamese-400-normal.55b6670a50de68532b45.woff",
+    "static/media/markazi-text-vietnamese-400-normal.woff2": "/littleLemon/static/media/markazi-text-vietnamese-400-normal.22c27a057a7597bfdb94.woff2",
     "index.html": "/littleLemon/index.html",
-    "main.073c9b0a.css.map": "/littleLemon/static/css/main.073c9b0a.css.map",
-    "main.baa208e7.js.map": "/littleLemon/static/js/main.baa208e7.js.map",
+    "main.2732d156.css.map": "/littleLemon/static/css/main.2732d156.css.map",
+    "main.52bcdf95.js.map": "/littleLemon/static/js/main.52bcdf95.js.map",
     "787.3ecd7fac.chunk.js.map": "/littleLemon/static/js/787.3ecd7fac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.baa208e7.js"
+    "static/css/main.2732d156.css",
+    "static/js/main.52bcdf95.js"
   ]
 }
