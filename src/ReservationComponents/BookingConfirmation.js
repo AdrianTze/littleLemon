@@ -80,7 +80,7 @@ const BookingConfirmation = () => {
 
         <CardFooter>
           <Button type="submit" color={"secondary.400"} bg={"primary.200"}>
-            <Link to={"/"} className="nav-item">
+            <Link to={"/littleLemon"} className="nav-item">
               Home
             </Link>
           </Button>

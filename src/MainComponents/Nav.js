@@ -13,17 +13,29 @@ const Nav = () => {
           <img src={logo} alt="Little Lemon Logo" width={"200px"} />
         </ListItem>
         <ListItem>
-          <Link to={"/"} className="nav-item" onClick={() => scroll("header")}>
+          <Link
+            to={"/littleLemon"}
+            className="nav-item"
+            onClick={() => scroll("header")}
+          >
             Home
           </Link>
         </ListItem>
         <ListItem>
-          <Link to={"/"} className="nav-item" onClick={() => scroll("aboutus")}>
+          <Link
+            to={"/littleLemon"}
+            className="nav-item"
+            onClick={() => scroll("aboutus")}
+          >
             About
           </Link>
         </ListItem>
         <ListItem>
-          <Link to={"/"} className="nav-item" onClick={() => scroll("special")}>
+          <Link
+            to={"/littleLemon"}
+            className="nav-item"
+            onClick={() => scroll("special")}
+          >
             Menu
           </Link>
         </ListItem>
@@ -33,12 +45,12 @@ const Nav = () => {
           </Link>
         </ListItem>
         <ListItem>
-          <Link to={"/"} className="nav-item">
+          <Link to={"/littleLemon"} className="nav-item">
             Order Online
           </Link>
         </ListItem>
         <ListItem>
-          <Link to={"/"} className="nav-item">
+          <Link to={"/littleLemon"} className="nav-item">
             Login
           </Link>
         </ListItem>

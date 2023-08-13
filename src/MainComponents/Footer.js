@@ -51,13 +51,17 @@ const Footer = () => {
         <img src={logo} alt="Little Lemon Logo" width={"300px"} />
         <ul>
           <li>
-            <Link to={"/"} className="nav-item" onClick={handleClick("header")}>
+            <Link
+              to={"/littleLemon"}
+              className="nav-item"
+              onClick={handleClick("header")}
+            >
               Home
             </Link>
           </li>
           <li>
             <Link
-              to={"/"}
+              to={"/littleLemon"}
               className="nav-item"
               onClick={handleClick("aboutus")}
             >
@@ -65,7 +69,11 @@ const Footer = () => {
             </Link>
           </li>
           <li>
-            <Link to={"/"} className="nav-item">
+            <Link
+              to={"/littleLemon"}
+              className="nav-item"
+              onClick={handleClick("special")}
+            >
               Menu
             </Link>
           </li>
@@ -75,12 +83,12 @@ const Footer = () => {
             </Link>
           </li>
           <li>
-            <Link to={"/"} className="nav-item">
+            <Link to={"/littleLemon"} className="nav-item">
               Order Online
             </Link>
           </li>
           <li>
-            <Link to={"/"} className="nav-item">
+            <Link to={"/littleLemon"} className="nav-item">
               Login
             </Link>
           </li>
